@@ -7,6 +7,23 @@ Morphe-patches voor **Buienradar** (`com.supportware.Buienradar`). Getest op ver
 https://morphe.software/add-source?github=wouter075/buienradar-patches
 
 <!-- PATCHES_START EXPANDED -->
+> **[v1.0.0](https://github.com/wouter075/buienradar-patches/releases/tag/v1.0.0)**&nbsp;&nbsp;•&nbsp;&nbsp;`main`&nbsp;&nbsp;•&nbsp;&nbsp;2 patches total
+<details open>
+<summary>📦 Buienradar&nbsp;&nbsp;•&nbsp;&nbsp;2 patches</summary>
+<br>
+
+**🎯 Supported versions:**
+
+| 7.4.8 |
+| :---: |
+
+| 💊&nbsp;Patch | 📜&nbsp;Description | ⚙️&nbsp;Options |
+|----------|----------------|-----------|
+| [Hide Premium banner](#hide-premium-banner) | Hides the 'Discover Buienradar Premium' promotion block on the Today screen. |  |
+| [Hide ads](#hide-ads) | Removes the banner/native ads between the weather cards and the pre-roll ads in weather videos. |  |
+
+</details>
+
 <!-- PATCHES_END -->
 
 ## Patch: Hide ads
